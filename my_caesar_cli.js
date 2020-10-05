@@ -43,5 +43,3 @@ function caesarCipher (txt, shift, type) {
     return output;
 };
 
-caesarCipher(input, shift, action);
-
